@@ -42,4 +42,5 @@ An operational, risk-tiered assessment framework designed to evaluate enterprise
 * `03_Worked_Example/`: End-to-end completed assessment for fictional vendor CloudAgent Technologies Inc.
 * `04_Final/`: [Executive Overview presentation (PDF)](04_Final/Vendor_Risk_Questionnaire_Overview.pdf)
 
+* ---
 *[← Back to full AI Governance portfolio](https://github.com/Nisarga0104)*
